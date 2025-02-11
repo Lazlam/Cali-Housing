@@ -1,4 +1,4 @@
-Housing Price Prediction
+Cali Housing ML
 
 This project performs data preprocessing, exploratory data analysis (EDA), and machine learning modeling on the California housing dataset. The goal is to predict median house values using multiple approaches, including Perceptron, Least Squares regression, and a Neural Network.
 
